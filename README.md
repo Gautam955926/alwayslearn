@@ -1,2 +1,2 @@
 # alwayslearn
-Do not stop learning.
+Don't stop learning.
